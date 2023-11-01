@@ -1,0 +1,4 @@
+﻿  EMS.cpp
+C:\Users\hp\source\repos\EMS\EMS\EMS.cpp(14,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hp\source\repos\EMS\EMS\EMS.cpp(21,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hp\source\repos\EMS\EMS\EMS.cpp(51,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
